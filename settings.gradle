@@ -28,6 +28,8 @@ include ':retrofit-converters:simplexml'
 include ':retrofit-converters:wire'
 
 include ':samples'
+include ':APT'
+include ':Proxy'
 
 enableFeaturePreview('TYPESAFE_PROJECT_ACCESSORS')
-include ':APT'
+
